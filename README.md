@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/great_kestrel_7448), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-13 |
 | [Unmatched Deploy Services](./practice/sql/unmatched-deploy-services) | SQL | Medium | 2026-11-13 |
 | [Unmatched Deploy Services](./practice/spark/unmatched-deploy-services) | Spark | Medium | 2026-11-13 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-11-03 |
