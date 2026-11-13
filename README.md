@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/great_kestrel_7448), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-11-03 |
 | [Where the Signal Drops](./practice/sql/where-the-signal-drops) | SQL | Medium | 2026-11-02 |
 
 <!-- datadriven:index:end -->
